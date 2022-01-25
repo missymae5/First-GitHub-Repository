@@ -1,0 +1,1 @@
+This is a text file used for the repository I created in Git Bash. 
